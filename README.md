@@ -1,4 +1,4 @@
-# Would you like to join the team?
+# Signups are now closed
 
 Create an issue on this repository explaining how adding you would benefit the team.
 
